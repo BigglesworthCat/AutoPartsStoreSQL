@@ -1,0 +1,15 @@
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (1, 'Аккумулятор');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (6, 'Амортизатори');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (5, 'Гальмівні колодки');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (7, 'Глушник');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (11, 'Двірники');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (12, 'Запобіжник');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (14, 'Зимова гума');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (3, 'Колесо');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (15, 'Комплект сигналізації');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (13, 'Літня гума');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (8, 'Паливний насос');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (4, 'Привідний вал');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (10, 'Радіатор');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (9, 'Свіча запалювання');
+INSERT INTO AutoPartsStore.goods (good_id, good_name) VALUES (2, 'Фільтр масляний');
